@@ -4,7 +4,7 @@
     - 지정한 IP 주소(IP Address)에 데이터 전달
     - 패킷(Packet)이라는 통신 단위로 데이터 전달
 
-https://github.com/jinsyz/RecordStudy/blob/main/http/IP(Interne%203074f/%EC%BA%A1%EC%B2%98.png?raw=true
+![image](https://user-images.githubusercontent.com/77093909/154899330-96cd9904-6204-4614-9875-ecdc794ad6e2.png)
 
 위와 같이 전송 데이터에 IP 패킷이 감싸주고 있다고 생각하면 된다.
 
