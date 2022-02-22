@@ -1,7 +1,6 @@
 # TCP와 UDP
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f2120cc-f07c-462a-8c64-e646330b5b76/Untitled.png)
-
+![image](https://user-images.githubusercontent.com/77093909/155059131-c1aaec5c-381d-4034-a622-d2c448edd149.png)
 IP 프로토콜의 단점을 보완한 방식이 TCP 이다. 통상적으로 TCP/IP라고 한다.
 
 ![image](https://user-images.githubusercontent.com/77093909/155058863-113b64d7-5247-45e8-a78a-bb568824000e.png)
@@ -46,4 +45,7 @@ PORT
 
 - 전화번호부
 - 도메인 명을 IP 주소로 변환
+
+![image](https://user-images.githubusercontent.com/77093909/155059109-4b848de8-4049-4f29-abea-9a9309dabcd4.png)
+
 
