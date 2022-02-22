@@ -1,6 +1,6 @@
 # TCP와 UDP
 
-![Untitled](TCP%E1%84%8B%E1%85%AA%20UDP%207731a/Untitled.png)
+![image](https://user-images.githubusercontent.com/77093909/155058863-113b64d7-5247-45e8-a78a-bb568824000e.png)
 
 IP 프로토콜의 단점을 보완한 방식이 TCP 이다. 통상적으로 TCP/IP라고 한다.
 
