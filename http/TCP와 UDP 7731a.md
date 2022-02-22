@@ -1,10 +1,10 @@
 # TCP와 UDP
 
-![image](https://user-images.githubusercontent.com/77093909/155058863-113b64d7-5247-45e8-a78a-bb568824000e.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f2120cc-f07c-462a-8c64-e646330b5b76/Untitled.png)
 
 IP 프로토콜의 단점을 보완한 방식이 TCP 이다. 통상적으로 TCP/IP라고 한다.
 
-![Untitled](TCP%E1%84%8B%E1%85%AA%20UDP%207731a/Untitled%201.png)
+![image](https://user-images.githubusercontent.com/77093909/155058863-113b64d7-5247-45e8-a78a-bb568824000e.png)
 
 전송데이터를 TCP 정보가 감싼다. TCP 정보에는 PORT 정보가 들어있는데  PORT는 한번에 둘 이상의 어플리케이션이 연결을 요청할때 PORT 번호로 구분을 하게 해주는 역할을 한다.
 
