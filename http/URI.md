@@ -1,6 +1,6 @@
 # URI
 
-![캡처.PNG](URI%2034b32/%EC%BA%A1%EC%B2%98.png)
+![image](https://user-images.githubusercontent.com/77093909/155303667-8c6597ab-1f56-4f9f-8031-94d71fd40989.png)
 
 ### URI
 
